@@ -12,6 +12,7 @@ from src.routes.patients import patients_bp
 from src.routes.appointments import appointments_bp
 from src.routes.services import services_bp
 from src.routes.payments import payments_bp
+from src.routes.users import users_bp
 from src.routes.import_data import import_bp
 
 # Cargar variables de entorno
